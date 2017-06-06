@@ -14,6 +14,9 @@
    - [01.03 HTML标题](01-HTML/01.03-HTML标题.md)
    - [01.04 HTML段落](01-HTML/01.04-HTML段落.md)
    - [01.05 HTML样式 style](01-HTML/01.05-HTML样式-style.md)
+   - [01.06 HTML文本格式化](01-HTML/01.06-HTML文本格式化.md)
+
+
 
 # References
 
