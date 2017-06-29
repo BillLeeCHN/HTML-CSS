@@ -17,6 +17,9 @@
    - [01.06 HTML文本格式化](01-HTML/01.06-HTML文本格式化.md)
    - [01.07 HTML注释](01-HTML/01.07-HTML注释.md)
    - [01.08 HTML链接](01-HTML/01.08-HTML链接.md)
+   - [01.09 HTML图片](01-HTML/01.09-HTML图片.md)
+
+01.09-HTML图片.md
 
 # References
 
